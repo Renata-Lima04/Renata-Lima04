@@ -1,45 +1,64 @@
-# 👩‍💻 Olá, eu sou a Renata!
+<!-- Cabeçalho com efeito de digitação -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&size=28&width=800&lines=Ol%C3%A1%2C+eu+sou+a+Renata!+%F0%9F%91%A9%F0%9F%92%BB;Estudante+de+ADS+%7C+Web%2C+Banco+de+Dados+e+Redes;Criatividade+%2B+Tecnologia+%2B+Inova%C3%A7%C3%A3o+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonada por **tecnologia, programação e inovação**  
-🚀 Buscando sempre aprender e criar soluções criativas  
+<h1 align="center">Bem-vindos ao meu espaço! 👋</h1>
 
----
-
-## 🚀 Tecnologias & Ferramentas  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<p align="center">
+  Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, apaixonada por tecnologia, aprendizado e soluções criativas.
+  <br/>
+  Também sou artesã de amigurumis 🧶 — paciência e atenção aos detalhes que levo para o código.
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renata-Lima04&show_icons=true&theme=tokyonight)  
+### 🚀 Tecnologias & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+</p>
 
 ---
 
-## 📈 Linguagens mais usadas  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Lima04&layout=compact&theme=tokyonight)  
+### 📊 Estatísticas
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Renata-Lima04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Renata-Lima04&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📈 Linguagens mais usadas
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renata-Lima04&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🔥 Streak de Contribuições  
-![GitHub Streak](https://streak-stats.demolab.com?user=Renata-Lima04&theme=tokyonight&hide_border=true)  
+### 🎮 Mini-game no meu perfil
+<p>
+  <a href="https://renata-lima04.github.io/Renata-Lima04/" target="_blank">
+    <img src="https://img.shields.io/badge/JOGAR%20AGORA-Snake-2ea043?style=for-the-badge&logo=github"/>
+  </a>
+  <br/>
+  <sub>Clique no botão para jogar meu mini-game (GitHub Pages).</sub>
+</p>
 
 ---
 
-## ✨ Sobre mim  
-- 🎓 Estudante dedicada de **ADS**  
-- 💡 Interesse em **Web, Bancos de Dados e Redes**  
-- 🧶 No tempo livre faço **crochê e amigurumis**  
-- 🌍 Sonho em participar de projetos que façam diferença  
+### 🐍 Snake das contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renata-Lima04/Renata-Lima04/output/snake-dark.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Renata-Lima04/Renata-Lima04/output/snake.svg"/>
+</picture>
 
 ---
 
-## 🌐 Conecte-se comigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatapldeaguiar@gmail@email.com)  
+### 📫 Contato
+<a href="mailto:seuemail@email.com">Email</a> • 
+<a href="https://www.linkedin.com/">LinkedIn</a>
+
