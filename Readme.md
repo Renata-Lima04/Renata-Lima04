@@ -39,17 +39,6 @@
 
 ---
 
-### 🎮 Mini-game no meu perfil
-<p>
-  <a href="https://renata-lima04.github.io/Renata-Lima04/" target="_blank">
-    <img src="https://img.shields.io/badge/JOGAR%20AGORA-Snake-2ea043?style=for-the-badge&logo=github"/>
-  </a>
-  <br/>
-  <sub>Clique no botão para jogar meu mini-game (GitHub Pages).</sub>
-</p>
-
----
-
 ### 🐍 Snake das contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renata-Lima04/Renata-Lima04/output/snake-dark.svg"/>
